@@ -1,0 +1,11 @@
+{
+  "appId": "com.olufunto.cyclecue",
+  "appName": "Cycle Cue",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#8C2F5A"
+    }
+  }
+}

@@ -8,8 +8,8 @@
 
 **Category:** Health & Fitness (Apple primary; secondary: Lifestyle). Play: Health & Fitness.
 
-**Support URL:** `https://<your-github-username>.github.io/cycle-cue/`
-**Privacy policy URL:** `https://<your-github-username>.github.io/cycle-cue/privacy.html`
+**Support URL:** `https://jcreatives1x-oss.github.io/cycle-cue/`
+**Privacy policy URL:** `https://jcreatives1x-oss.github.io/cycle-cue/privacy.html`
 
 ## Apple App Store
 
